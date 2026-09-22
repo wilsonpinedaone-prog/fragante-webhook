@@ -1,0 +1,12 @@
+{
+  "name": "fragante-webhook",
+  "version": "1.0.0",
+  "description": "Backend webhook para FRAGANTE IA y WhatsApp Cloud API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
